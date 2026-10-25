@@ -72,6 +72,9 @@
 - https://ielts.neea.cn/
 - https://ielts.neea.edu.cn/
 
+> 考位秒没、抢不到？可以试试开源自部署的考位监控：[swiftiejerry/ielts-seat-watchdog](https://github.com/swiftiejerry/ielts-seat-watchdog)
+> （油猴脚本轮询 + 本地 Docker 控制面，放出考位后微信秒级推送，全程只读、不自动报名）
+
 ### 报名流程
 
 <div align="center">
